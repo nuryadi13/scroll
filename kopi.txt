@@ -1,0 +1,6 @@
+uas kecerdasan buatan
+1. definisi terminologi menurut johnhollan Algoritmagenetika pertamakali dikembangkan oleh John Holland dari Universitas Michigan pada tahun 1975. JohnHolland mengatakan bahwa setiap masalah yangberbentukadaptasi(alamimaupunbuatan)   dapatdiformulasikandalam terminologigenetika.Algoritmagenetikamerupakan simulasi dari proses evolusi Darwin dan operasi genetika atas kromosom.
+	menurut Algoritma genetika merupakan algoritma pencarian yang berdasarkan pada carakerjaseleksi alam danilmugenetika(Goldberg, 1989, p1).
+2. 
+3. pengertian nilai fitness :Nilai fitness adalah nilai yang menyatakan baik tidaknya suatu solusi (individu). Nilai fitness ini yang dijadikan acuan dalam mencapai nilai optimal dalam algoritma genetika. Algoritma genetika bertujuan mencari individu dengan nilai fitness yang paling tinggi.
+4. 
